@@ -1,0 +1,35 @@
+[
+  {
+    "retailer": "WarehouseClub",
+    "name": "Toilet Paper Mega Pack",
+    "category": "home",
+    "price": 17.49,
+    "unit": "30 rolls",
+    "msrp": 24.99,
+    "start_date": "2024-07-01",
+    "end_date": null,
+    "notes": "Members-only price; limited to 2 per customer."
+  },
+  {
+    "retailer": "WarehouseClub",
+    "name": "Artificial Christmas Tree",
+    "category": "holiday",
+    "price": 129.00,
+    "unit": "7.5 ft",
+    "msrp": 189.00,
+    "start_date": "2024-07-01",
+    "end_date": null,
+    "notes": "Off-season clearance while supplies last."
+  },
+  {
+    "retailer": "WarehouseClub",
+    "name": "Honeycrisp Apples",
+    "category": "produce",
+    "price": 2.29,
+    "unit": "per lb",
+    "msrp": 2.49,
+    "start_date": "2024-07-01",
+    "end_date": null,
+    "notes": null
+  }
+]
