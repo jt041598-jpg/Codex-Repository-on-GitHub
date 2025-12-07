@@ -1,0 +1,35 @@
+[
+  {
+    "retailer": "LocalMart",
+    "name": "Toilet Paper Mega Pack",
+    "category": "home",
+    "price": 18.99,
+    "unit": "24 rolls",
+    "msrp": 24.99,
+    "start_date": "2024-07-01",
+    "end_date": "2024-07-07",
+    "notes": "Online free pickup available."
+  },
+  {
+    "retailer": "LocalMart",
+    "name": "Laundry Detergent (96oz)",
+    "category": "home",
+    "price": 12.50,
+    "unit": "96 oz",
+    "msrp": 14.00,
+    "start_date": "2024-07-02",
+    "end_date": null,
+    "notes": "Coupon stackable with loyalty card."
+  },
+  {
+    "retailer": "LocalMart",
+    "name": "Honeycrisp Apples",
+    "category": "produce",
+    "price": 1.99,
+    "unit": "per lb",
+    "msrp": 2.49,
+    "start_date": "2024-07-01",
+    "end_date": null,
+    "notes": "Best price in the last 30 days."
+  }
+]
